@@ -1,0 +1,8 @@
+xflr5 v6.43
+
+Plane name :        Plane Name
+Polar name :        T2-VLM2-0.7kg-x0.0m
+
+   alpha      Beta       CL          CDi        CDv        CD         CY         Cl         Cm         Cn        Cni       QInf        XCP
+
+
